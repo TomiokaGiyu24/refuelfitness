@@ -68,7 +68,7 @@ export default function CTA() {
 
             {/* Instagram */}
             <motion.a
-              href="https://www.instagram.com/refuel_gym_borkheda?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
+              href="https://www.instagram.com/refuel__fitness_?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw=="
               target="_blank"
               rel="noopener noreferrer"
               whileHover={{ scale: 1.05, y: -2 }}
